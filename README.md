@@ -19,35 +19,35 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 ## 📂 My Projects Portfolio
 
 ### SQL Projects
-- [HR Analytics Dashboard](https://github.com/VK-Analyst/HR-Analytics-Dashboard)  
-  An interactive dashboard for HR analytics that provides insights into employee metrics and trends.
-- [Sales Performance Analysis](https://github.com/VK-Analyst/Sales-Performance-Analysis)  
+- [1](https://github.com/VK-Analyst/Sales-Performance-Analysis)  
   An analysis of sales data to track performance and identify key trends and opportunities.
-- [Customer Segmentation](https://github.com/VK-Analyst/Customer-Segmentation)  
+- [HR Data Analysis](https://github.com/VK-Analyst/HR-Data-Analysis.git)  
+  This project focuses on performing various SQL queries to analyze HR-related data.
+- [3](https://github.com/VK-Analyst/Customer-Segmentation)  
   A project focusing on segmenting customers based on their purchasing behavior to tailor marketing strategies.
 
 ### Python Projects
-- [Trade Data Analysis](https://github.com/VK-Analyst/Trade-Data-Analysis)  
+- [1](https://github.com/VK-Analyst/Trade-Data-Analysis)  
   An analysis of trade data to identify patterns and make data-driven trading decisions.
-- [Sentiment Analysis of Customer Reviews](https://github.com/VK-Analyst/Sentiment-Analysis-Customer-Reviews)  
+- [2](https://github.com/VK-Analyst/Sentiment-Analysis-Customer-Reviews)  
   A sentiment analysis project that evaluates customer feedback to gauge product satisfaction.
-- [Predictive Modeling for Sales Forecasting](https://github.com/VK-Analyst/Sales-Forecasting)  
+- [3](https://github.com/VK-Analyst/Sales-Forecasting)  
   A predictive model to forecast future sales based on historical data and trends.
 
 ### Power BI Reports
-- [Sales Performance Dashboard](https://github.com/VK-Analyst/Sales-Performance-Dashboard)  
-  A comprehensive dashboard for visualizing sales data and performance metrics.
-- [Financial Performance Report](https://github.com/VK-Analyst/Financial-Performance-Report)  
-  A detailed financial report that tracks key financial indicators and trends.
-- [Customer Insights Dashboard](https://github.com/VK-Analyst/Customer-Insights-Dashboard)  
+- [HR Analytics Dashboard](https://github.com/VK-Analyst/HR-Analytics-Dashboard.git)  
+  This project taught us how to analyze employee data to calculate and understand trends in the company's attrition rate over time
+- [Ecommerce-Sales-Dashboard](https://github.com/VK-Analyst/Ecommerce-Sales-dashboard.git)  
+  This project shows how to analyze sales, inventory, and customer data to optimize inventory, pricing, and marketing for better business decisions.
+- [3](https://github.com/VK-Analyst/Customer-Insights-Dashboard)  
   A dashboard that provides insights into customer behaviors and preferences.
 
 ### Tableau Dashboards
-- [Sales Overview Dashboard](https://public.tableau.com/profile/vivek.kumar#!/vizhome/SalesOverviewDashboard)  
+- [1](https://public.tableau.com/profile/vivek.kumar#!/vizhome/SalesOverviewDashboard)  
   An interactive dashboard to visualize overall sales performance and key metrics.
-- [Marketing Campaign Effectiveness](https://public.tableau.com/profile/vivek.kumar#!/vizhome/MarketingCampaignEffectiveness)  
+- [2](https://public.tableau.com/profile/vivek.kumar#!/vizhome/MarketingCampaignEffectiveness)  
   A dashboard analyzing the effectiveness of various marketing campaigns.
-- [Operational Efficiency Dashboard](https://public.tableau.com/profile/vivek.kumar#!/vizhome/OperationalEfficiencyDashboard)  
+- [3](https://public.tableau.com/profile/vivek.kumar#!/vizhome/OperationalEfficiencyDashboard)  
   A dashboard focusing on operational metrics and efficiency improvements.
 
 ---
