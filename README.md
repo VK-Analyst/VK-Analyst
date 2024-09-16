@@ -11,7 +11,7 @@ Hello, I'm **Vivek Kumar**, an aspiring Data Analyst eager to learn and grow in 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## 📂 My Projects Portfolio
-- [SQL Projects](#)  
+- [SQL Projects](https://github.com/VK-Analyst/HR-Analytics-Dashboard.git)  
 - [Python Projects](#)  
 - [Tableau Dashboards](#)  
 - [Power BI Reports](#)
