@@ -1,16 +1,19 @@
 ## Hi there 👋
+### <span style="color: #f39c12;"> <blink>Aspiring Data Analyst</blink> </span>
 
-<!--
-**VK-Analyst/VK-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm **Vivek Kumar**, an aspiring Data Analyst eager to learn and grow in the data world. I am passionate about uncovering insights from numbers and using them to make impactful decisions. Let's connect and discuss data! 📈
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects Portfolio
+- [SQL Projects](#)  
+- [Python Projects](#)  
+- [Tableau Dashboards](#)  
+- [Power BI Reports](#)
+
+Feel free to explore my projects and reach out if you'd like to collaborate or discuss data!
