@@ -19,8 +19,8 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 ## 📂 My Projects Portfolio
 
 ### SQL Projects
-- [1](https://github.com/VK-Analyst/Sales-Performance-Analysis)  
-  An analysis of sales data to track performance and identify key trends and opportunities.
+- [Healthcare Data Analysis](https://github.com/VK-Analyst/Healthcare-Data-Analysis.git)  
+  Analyzed healthcare data to assess the impact of adjustments and credentialing on physician performance and location efficiency.
 - [HR Data Analysis](https://github.com/VK-Analyst/HR-Data-Analysis.git)  
   This project focuses on performing various SQL queries to analyze HR-related data.
 - [3](https://github.com/VK-Analyst/Customer-Segmentation)  
