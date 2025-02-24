@@ -34,7 +34,7 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 - [3](https://github.com/VK-Analyst/Sales-Forecasting)  
   A predictive model to forecast future sales based on historical data and trends.
 
-### Power BI Reports
+### Power BI Projects
 - [HR Analytics Dashboard](https://github.com/VK-Analyst/HR-Analytics-Dashboard.git)  
   This project taught us how to analyze employee data to calculate and understand trends in the company's attrition rate over time
 - [Ecommerce-Sales-Dashboard](https://github.com/VK-Analyst/Ecommerce-Sales-dashboard.git)  
