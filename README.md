@@ -45,7 +45,7 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 ### Excel Dashboards
 - [Stock Trading Dashboard](https://public.tableau.com/profile/vivek.kumar#!/vizhome/SalesOverviewDashboard)  
   An interactive Stock Trading dashboard that analyzes and visualizes past trades, performance trends, and key metrics.
-- [Lake_Complain Sales Dashboard](https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard)  
+- [LakeComplain Sales Dashboard](https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard)  
   A dashboard to analyze the company's revenue and help make future decisions.
 - [INVESTING RELATED]()  
   A dashboard focusing on operational metrics and efficiency improvements.
