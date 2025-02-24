@@ -42,8 +42,8 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 - [3](https://github.com/VK-Analyst/Customer-Insights-Dashboard)  
   A dashboard that provides insights into customer behaviors and preferences.
 
-### Tableau Dashboards
-- [1](https://public.tableau.com/profile/vivek.kumar#!/vizhome/SalesOverviewDashboard)  
+### Excel Dashboards
+- [Trading Dashboard](https://public.tableau.com/profile/vivek.kumar#!/vizhome/SalesOverviewDashboard)  
   An interactive dashboard to visualize overall sales performance and key metrics.
 - [2](https://public.tableau.com/profile/vivek.kumar#!/vizhome/MarketingCampaignEffectiveness)  
   A dashboard analyzing the effectiveness of various marketing campaigns.
