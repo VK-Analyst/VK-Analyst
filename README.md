@@ -23,32 +23,18 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
   Analyzed healthcare data to assess the impact of adjustments and credentialing on physician performance and location efficiency.
 - [HR Data Analysis](https://github.com/VK-Analyst/HR-Data-Analysis.git)  
   This project focuses on performing various SQL queries to analyze HR-related data.
-- [3](https://github.com/VK-Analyst/Customer-Segmentation)  
-  A project focusing on segmenting customers based on their purchasing behavior to tailor marketing strategies.
-
-### Python Projects
-- [1](https://github.com/VK-Analyst/Trade-Data-Analysis)  
-  An analysis of trade data to identify patterns and make data-driven trading decisions.
-- [2](https://github.com/VK-Analyst/Sentiment-Analysis-Customer-Reviews)  
-  A sentiment analysis project that evaluates customer feedback to gauge product satisfaction.
-- [3](https://github.com/VK-Analyst/Sales-Forecasting)  
-  A predictive model to forecast future sales based on historical data and trends.
 
 ### Power BI Projects
 - [HR Analytics Dashboard](https://github.com/VK-Analyst/HR-Analytics-Dashboard.git)  
   This project taught us how to analyze employee data to calculate and understand trends in the company's attrition rate over time
 - [Ecommerce-Sales-Dashboard](https://github.com/VK-Analyst/Ecommerce-Sales-dashboard.git)  
   This project shows how to analyze sales, inventory, and customer data to optimize inventory, pricing, and marketing for better business decisions.
-- [3](https://github.com/VK-Analyst/Customer-Insights-Dashboard)  
-  A dashboard that provides insights into customer behaviors and preferences.
 
 ### Excel Dashboards
 - [Stock Trading Dashboard](https://public.tableau.com/profile/vivek.kumar#!/vizhome/SalesOverviewDashboard)  
   An interactive Stock Trading dashboard that analyzes and visualizes past trades, performance trends, and key metrics.
 - [Lake Complain Sales Dashboard](https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard)  
   A dashboard to analyze the company's revenue that help to make future decisions.
-- [INVESTING RELATED]()  
-  A dashboard focusing on operational metrics and efficiency improvements.
 
 ---
 
