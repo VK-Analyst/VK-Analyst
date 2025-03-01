@@ -31,7 +31,7 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
   This project shows how to analyze sales, inventory, and customer data to optimize inventory, pricing, and marketing for better business decisions.
 
 ### Excel Dashboards
-- [Stock Trading Dashboard](https://public.tableau.com/profile/vivek.kumar#!/vizhome/SalesOverviewDashboard)  
+- [Stock Trading Dashboard](https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar)  
   An interactive Stock Trading dashboard that analyzes and visualizes past trades, performance trends, and key metrics.
 - [Lake Complain Sales Dashboard](https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard)  
   A dashboard to analyze the company's revenue that help to make future decisions.
