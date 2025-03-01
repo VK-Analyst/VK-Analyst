@@ -32,7 +32,7 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 
 ### Excel Projects
 - [Stock Trading Dashboard](https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar)  
-  An interactive Stock Trading dashboard that analyzes and visualizes past trades, performance trends, and key metrics.
+  An interactive Stock Trading dashboard that analysis and visualizes past trades, performance trends, and key metrics.
 - [Lake Complain Sales Dashboard](https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard)  
   A dashboard to analyze the company's revenue that help to make future decisions.
 
