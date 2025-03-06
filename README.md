@@ -24,7 +24,7 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 - [HR Data Analysis](https://github.com/VK-Analyst/HR-Data-Analysis.git)  
   This project focuses on performing various SQL queries to analyze HR-related data.
 - [Olympic Data Analysis](https://github.com/VK-Analyst/Olympics-Data-Analysis)  
-  This project focuses on performing various SQL queries to analyze Olympic related data.
+  This project focuses on performing various SQL queries to analyze Olympic data.
 
 ### Power BI Projects
 - [HR Analytics Dashboard](https://github.com/VK-Analyst/HR-Analytics-Dashboard.git)  
