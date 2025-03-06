@@ -40,4 +40,4 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 
 ---
 
-Feel free to explore my projects and if you'd like to discuss about data-driven insights. mail me on @Vivekkum0709@gmail.com
+Feel free to explore my projects and if you'd like to discuss more about data-driven insights. mail me on @Vivekkum0709@gmail.com
