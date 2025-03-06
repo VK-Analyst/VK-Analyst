@@ -28,9 +28,9 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 
 ### Power BI Projects
 - [HR Analytics Dashboard](https://github.com/VK-Analyst/HR-Analytics-Dashboard.git)  
-  This project taught us how to analyze employee data to calculate and understand trends in the company's attrition rate over time
+  This project focus on analyze employees data to calculate and understand trends in the company's attrition rate over time
 - [Ecommerce-Sales-Dashboard](https://github.com/VK-Analyst/Ecommerce-Sales-dashboard.git)  
-  This project shows how to analyze sales, inventory, and customer data to optimize inventory, pricing, and marketing for better business decisions.
+  This project focused on analyze sales, inventory, and customer data to optimize inventory, pricing, and marketing for better business decisions.
 
 ### Excel Projects
 - [Stock Trading Template](https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar)  
@@ -40,4 +40,4 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 
 ---
 
-Feel free to explore these projects, and reach out if you'd like to collaborate or discuss data-driven insights.
+Feel free to explore my projects and if you'd like to discuss about data-driven insights. mail me on @Vivekkum0709@gmail.com
