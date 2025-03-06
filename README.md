@@ -23,7 +23,7 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
   Analyzed healthcare data to assess the impact of adjustments and credentialing on physician performance and location efficiency.
 - [HR Data Analysis](https://github.com/VK-Analyst/HR-Data-Analysis.git)  
   This project focuses on performing various SQL queries to analyze HR-related data.
-- [Olympic Data Analysis]()  
+- [Olympic Data Analysis](https://github.com/VK-Analyst/Olympics-Data-Analysis)  
   This project focuses on performing various SQL queries to analyze Olympic related data.
 
 ### Power BI Projects
