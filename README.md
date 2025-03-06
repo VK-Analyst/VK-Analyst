@@ -23,6 +23,8 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
   Analyzed healthcare data to assess the impact of adjustments and credentialing on physician performance and location efficiency.
 - [HR Data Analysis](https://github.com/VK-Analyst/HR-Data-Analysis.git)  
   This project focuses on performing various SQL queries to analyze HR-related data.
+- [Olympic Data Analysis]()  
+  This project focuses on performing various SQL queries to analyze Olympic related data.
 
 ### Power BI Projects
 - [HR Analytics Dashboard](https://github.com/VK-Analyst/HR-Analytics-Dashboard.git)  
@@ -31,8 +33,8 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
   This project shows how to analyze sales, inventory, and customer data to optimize inventory, pricing, and marketing for better business decisions.
 
 ### Excel Projects
-- [Stock Trading Dashboard](https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar)  
-  An interactive Stock Trading dashboard that analysis and visualizes past trades, performance trends, and key metrics.
+- [Stock Trading Template](https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar)  
+  An interactive Stock Trading Template that analysis and visualizes past trades, performance trends, and key metrics.
 - [Lake Complain Sales Dashboard](https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard)  
   A dashboard to analyze the company's revenue that help to make future decisions.
 
