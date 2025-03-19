@@ -27,12 +27,12 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
   This project focuses on performing various SQL queries to analyze Olympic data.
 
 ### Power BI Projects
-- [Finance Dashboard](https://github.com/VK-Analyst/Finance-Dashboard.git)  
-  This project focuses on analyzing sales data to calculate and understand trends in the company's product performance and segment rates over time.
 - [HR Analytics Dashboard](https://github.com/VK-Analyst/HR-Analytics-Dashboard.git)  
   This project focus on analyze employees data to calculate and understand trends in the company's attrition rate over time.
 - [Ecommerce-Sales-Dashboard](https://github.com/VK-Analyst/Ecommerce-Sales-dashboard.git)  
   This project focused on analyze sales, inventory, and customer data to optimize inventory, pricing, and marketing for better business decisions.
+- [Finance Dashboard](https://github.com/VK-Analyst/Finance-Dashboard.git)  
+  This project focuses on analyzing sales data to calculate and understand trends in the company's product performance and segment rates over time.
 
 ### Excel Projects
 - [Stock Trading Template](https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar)  
