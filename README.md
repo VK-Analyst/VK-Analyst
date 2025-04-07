@@ -1,7 +1,7 @@
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏🏽;Nice+to+meet+you!+🤝🏽" />
-</h1>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏🏽;Nice+to+meet+you!+🤝🏽&color=FFFFFF" />
+</p>
 
 # Hi, I'm **Vivek Kumar** 👋  
 ## <span style="color: #f39c12;">Aspiring Data Analyst</span>
