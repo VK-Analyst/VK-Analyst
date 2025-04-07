@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏🏽;+I'm+Vivek+Kumar+👋🏽;Nice+to+meet+you!+🤝🏽" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏🏽;Nice+to+meet+you!+🤝🏽" />
 </h1>
 
 
