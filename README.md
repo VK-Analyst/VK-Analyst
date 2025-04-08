@@ -1,7 +1,8 @@
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏🏽;Nice+to+meet+you!+🤝🏽&color=FFFFFF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏;Nice+to+meet+you!+🤝&color=808080" />
 </p>
+
 
 # Hi, I'm **Vivek Kumar** 👋  
 ## <span style="color: #f39c12;">Aspiring Data Analyst</span>
@@ -51,7 +52,7 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 
 ---
 
-## 🧑🏽‍🎓 Certificates:
+## 🧑🎓 Certificates:
 ### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **HackerRank - SQL Advanced** [ [Certificate]() ]
 ### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **HackerRank - SQL Intermediate** [ [Certificate]() ]
 ### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **HackerRank - SQL Basic** [ [Certificate](https://www.hackerrank.com/certificates/iframe/a0b9f2240769) ]
@@ -64,8 +65,9 @@ Feel free to explore my projects and if you'd like to discuss more about data-dr
 Your Next Data Analyst ✨
 
 <h5>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Stopping+By!+✌🏽;+Have+a+Nice+Day!+✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Stopping+By!+✌;+Have+a+Nice+Day!+✨;&color=808080" />
 </h5>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VK-Analyst/VK-Analyst/blob/output/github-snake-dark.svg" />
