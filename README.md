@@ -25,8 +25,8 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 ## 📂 My Projects Portfolio
 
 ### Python Projects
-- [Healthcare Data Analysis](h)  
-  Add description
+- [H](h)  
+  Add
 
 ### SQL Projects
 - [Healthcare Data Analysis](https://github.com/VK-Analyst/Healthcare-Data-Analysis.git)  
