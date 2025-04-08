@@ -24,10 +24,6 @@ I'm an **Aspiring Data Analyst** with a passion for transforming raw data into m
 
 ## 📂 My Projects Portfolio
 
-### Python Projects
-- [H](h)  
-  Add
-
 ### SQL Projects
 - [Healthcare Data Analysis](https://github.com/VK-Analyst/Healthcare-Data-Analysis.git)  
   Analyzed healthcare data to assess the impact of adjustments and credentialing on physician performance and location efficiency.
