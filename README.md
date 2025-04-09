@@ -1,13 +1,21 @@
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏;Nice+to+meet+you!+🤝&color=808080" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=Hello+🙏;I'm+Vivek+Kumar+👋;Nice+to+meet+you!+🤝&color=808080" />
 </p>
 
+## <span style="color: #f39c12;">Junior Data Analyst</span>
 
-# Hi, I'm **Vivek Kumar** 👋  
-## <span style="color: #f39c12;">Aspiring Data Analyst</span>
+I'm a **Junior Data Analyst** with a passion for transforming raw data into meaningful insights.
 
-I'm an **Aspiring Data Analyst** with a passion for transforming raw data into meaningful insights. With a keen interest in solving real-world problems using data, I specialize in data analysis, visualization, and storytelling through tools like **EXCEL**, **SQL**, **Python**, **Power BI**, and **Tableau**. My goal is to leverage data to drive informed decision-making and create impactful solutions. I’m always looking to learn, grow, and collaborate on exciting projects in the world of analytics.
+🔍 Passionate about solving real-world problems with data
+
+💻 Proficient in SQL, EXCEL, Python, Power BI, and Tableau
+
+📊 Specialize in SQL and Data visualization (Power BI)
+
+🎯 Focused on using Real data to enable informed decision-making and drive impactful solutions
+
+🚀 I am Constantly seeking opportunities to learn, grow, and collaborate on exciting data-driven projects as a Junior Data Analyst
 
 ---
 
