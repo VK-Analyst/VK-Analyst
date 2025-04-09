@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=Hello+🙏;I'm+Vivek+Kumar+👋;Nice+to+meet+you!+🤝&color=568203" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=Hello+🙏;I'm+Vivek+Kumar+👋;Nice+to+meet+you!+🤝&color=228B22" />
 </p>
 
 ## <span style="color: #f39c12;">Junior Data Analyst</span>
@@ -69,9 +69,8 @@ Feel free to explore my projects and if you'd like to discuss more about data-dr
 Your Next Data Analyst ✨
 
 <h5>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Stopping+By!+✌;+Have+a+Nice+Day!+✨;&color=808080" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Stopping+By!+✌;+Have+a+Nice+Day!+✨;&color=228B22" />
 </h5>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VK-Analyst/VK-Analyst/blob/output/github-snake-dark.svg" />
