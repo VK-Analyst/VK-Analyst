@@ -57,6 +57,7 @@ I'm a **Junior Data Analyst** with a passion for transforming raw data into mean
 ---
 
 ## 🧑🎓 Certificates:
+### • 🏅 **Data Analyst Program** - **Lone Star Academy** [ [Certificate]() ]
 ### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **HackerRank - SQL Intermediate** [ [Certificate]() ]
 ### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **HackerRank - SQL Basic** [ [Certificate](https://www.hackerrank.com/certificates/iframe/a0b9f2240769) ]
 
