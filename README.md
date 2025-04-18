@@ -51,7 +51,7 @@ I'm a **Junior Data Analyst** with a passion for transforming raw data into mean
 </p>
 
 
-## <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="30" height="30" align="top"/> Excel Project:
+## <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="30" height="30" align="top"/> Excel Projects:
 
 <p>
     <a href="https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar">
