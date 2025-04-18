@@ -32,13 +32,16 @@ I'm a **Junior Data Analyst** with a passion for transforming raw data into mean
 
 ## 📂 My Projects Portfolio
 
-### SQL Projects
-- [Healthcare Data Analysis](https://github.com/VK-Analyst/Healthcare-Data-Analysis.git)  
-  Analyzed healthcare data to assess the impact of adjustments and credentialing on physician performance and location efficiency.
-- [HR Data Analysis](https://github.com/VK-Analyst/HR-Data-Analysis.git)  
-  This project focuses on performing various SQL queries to analyze HR-related data.
-- [Olympic Data Analysis](https://github.com/VK-Analyst/Olympics-Data-Analysis)  
-  This project focuses on performing various SQL queries to analyze Olympic data.
+## <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="SQL" width="30" height="30" align="top"/> SQL Projects:
+<p>
+    <a href="https://github.com/VK-Analyst/Healthcare-Data-Analysis.git" title="SQL Project 1 - Healthcare Data Analysis">
+        <img src="https://github.com/user-attachments/assets/e6ecd40a-223c-4bf4-98f9-b030cd01f7f7" width="30%" style="max-height: 300px; margin-right: 10px;">
+    </a>
+    <a href="https://github.com/VK-Analyst/Olympics-Data-Analysis" title="SQL Project 2 - Olympics Data Analysis">
+        <img src="https://github.com/user-attachments/assets/a9c562c1-690b-4177-96ee-86009ce151d5" width="36%" style="max-height: 300px;">
+    </a>
+</p>
+
 
 ## <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="30" height="30" align="top"/> Power BI Projects:
 <p>
@@ -54,10 +57,10 @@ I'm a **Junior Data Analyst** with a passion for transforming raw data into mean
 ## <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="30" height="30" align="top"/> Excel Projects:
 
 <p>
-    <a href="https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar">
+    <a href="https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar" title="Excel Project 1 - Stock Trading Template">
         <img src="https://github.com/user-attachments/assets/1c3eff3e-c66d-45d1-8279-1b4f92dbc299" width="30%" style="max-height: 200px;">
     </a>
-    <a href="https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard">
+    <a href="https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard" title="Excel Project 2 - Sales Dashboard">
         <img src="https://github.com/user-attachments/assets/deef8786-b12a-4cbb-9772-238cadf6e1f8" width="38%" style="max-height: 180px;">
     </a>
 </p>
