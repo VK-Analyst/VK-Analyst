@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=HELLO+🙏;I'm+Vivek+Kumar+👋;Nice+to+meet+you!+🤝&color=228B22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=Hello+🙏;I'm+Vivek+Kumar+👋;Nice+to+meet+you!+🤝&color=228B22" />
 </p>
 
 ## <span style="color: #f39c12;">Junior Data Analyst</span>
