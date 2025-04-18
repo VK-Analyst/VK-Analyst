@@ -40,19 +40,29 @@ I'm a **Junior Data Analyst** with a passion for transforming raw data into mean
 - [Olympic Data Analysis](https://github.com/VK-Analyst/Olympics-Data-Analysis)  
   This project focuses on performing various SQL queries to analyze Olympic data.
 
-### Power BI Projects
-- [HR Analytics Dashboard](https://github.com/VK-Analyst/HR-Analytics-Dashboard.git)  
-  This project focus on analyze employees data to calculate and understand trends in the company's attrition rate over time.
-- [Ecommerce-Sales-Dashboard](https://github.com/VK-Analyst/Ecommerce-Sales-dashboard.git)  
-  This project focused on analyze sales, inventory, and customer data to optimize inventory, pricing, and marketing for better business decisions.
-- [Finance Dashboard](https://github.com/VK-Analyst/Finance-Dashboard.git)  
-  This project focuses on analyzing sales data to calculate and understand trends in the company's product performance and segment rates over time.
+## <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="30" height="30" align="top"/> Power BI Projects:
+<p>
+    <a href="https://github.com/VK-Analyst/HR-Analytics-Dashboard" title="Power BI Project 1">
+        <img src="https://github.com/user-attachments/assets/7a144b82-8125-4679-ad77-87d9f5e90929" width="30%" style="max-height: 300px; margin-right: 10px;">
+    </a>
+    <a href="https://github.com/VK-Analyst/Ecommerce-Sales-dashboard" title="Power BI Project 2">
+        <img src="https://github.com/user-attachments/assets/2517c5f8-1f3b-494e-b812-72c1c2fd2c58" width="30%" style="max-height: 300px;">
+    </a>
+</p>
 
-### Excel Projects
-- [Stock Trading Template](https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar)  
-  An interactive Stock Trading Template that analysis and visualizes past trades, performance trends, and key metrics.
-- [Lake Complain Sales Dashboard](https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard)  
-  A dashboard to analyze the company's revenue that help to make future decisions.
+
+## <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="30" height="30" align="top"/> Excel Project:
+
+<p>
+    <a href="https://github.com/VK-Analyst/Stock-Trading-Dashboard/tree/https/github.com/VK-Analyst/Vivek-Kumar">
+        <img src="https://github.com/user-attachments/assets/1c3eff3e-c66d-45d1-8279-1b4f92dbc299" width="30%" style="max-height: 200px;">
+    </a>
+    <a href="https://github.com/VK-Analyst/Lake_Complain-Sales-Dashboard">
+        <img src="https://github.com/user-attachments/assets/deef8786-b12a-4cbb-9772-238cadf6e1f8" width="38%" style="max-height: 180px;">
+    </a>
+</p>
+
+
 
 ---
 
